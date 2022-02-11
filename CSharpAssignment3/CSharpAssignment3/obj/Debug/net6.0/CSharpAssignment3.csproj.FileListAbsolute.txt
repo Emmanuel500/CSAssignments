@@ -1,0 +1,15 @@
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\bin\Debug\net6.0\CSharpAssignment3.exe
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\bin\Debug\net6.0\CSharpAssignment3.deps.json
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\bin\Debug\net6.0\CSharpAssignment3.runtimeconfig.json
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\bin\Debug\net6.0\CSharpAssignment3.dll
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\bin\Debug\net6.0\ref\CSharpAssignment3.dll
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\bin\Debug\net6.0\CSharpAssignment3.pdb
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\obj\Debug\net6.0\CSharpAssignment3.csproj.AssemblyReference.cache
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\obj\Debug\net6.0\CSharpAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\obj\Debug\net6.0\CSharpAssignment3.AssemblyInfoInputs.cache
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\obj\Debug\net6.0\CSharpAssignment3.AssemblyInfo.cs
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\obj\Debug\net6.0\CSharpAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\obj\Debug\net6.0\CSharpAssignment3.dll
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\obj\Debug\net6.0\ref\CSharpAssignment3.dll
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\obj\Debug\net6.0\CSharpAssignment3.pdb
+C:\Users\Eph96\Documents\Job\Antra\Homework\CSAssignment\CSharpAssignment3\CSharpAssignment3\obj\Debug\net6.0\CSharpAssignment3.genruntimeconfig.cache
