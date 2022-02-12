@@ -35,7 +35,47 @@
 
 //Testing Classes
 //1) Stack
+Console.WriteLine("Stack:");
+MyStack<string> stack = new MyStack<string>();
+Console.WriteLine("Stack Size: " + stack.Count());
+Console.WriteLine("1st Item");
+stack.Push("1st Item");
+Console.WriteLine("Stack Size: " + stack.Count());
+Console.WriteLine("2nd Item");
+stack.Push("2nd Item");
+Console.WriteLine("Stack Size: " + stack.Count());
+Console.WriteLine("Poping");
+Console.WriteLine(stack.Pop());
+Console.WriteLine("Stack Size: " + stack.Count());
+Console.WriteLine("Poping");
+Console.WriteLine(stack.Pop());
+Console.WriteLine("Stack Size: " + stack.Count());
 
 //2) List
+Console.WriteLine("\nList:");
+MyList<int> list = new MyList<int>();
+Console.WriteLine("Adding 4");
+list.Add(4);
+Console.WriteLine($"Does it contain 4? {list.Contains(4)}");
+Console.WriteLine("Clearing list");
+list.Remove(0);
+Console.WriteLine($"Does it contain 4? {list.Contains(4)}");
 
 //3) Generic Repository
+Console.WriteLine("\nRepository:");
+Console.WriteLine("Create Entitys for Repository:");
+Entity entity1 = new Entity(2, "Oranges");
+Entity entity2 = new Entity(84);
+Entity entity3 = new Entity(618, "Books");
+Console.WriteLine("Create Repository and add entries:");
+GenericRepository repository = new GenericRepository();
+repository.Add(entity1);
+repository.Add(entity2);
+repository.Add(entity3);
+repository.Save();
+Console.WriteLine($"Entry with ID #2 has the name: {repository.GetById(2).Name}");
+Console.WriteLine("Passing repository");
+IEnumerable<Entity> enumerableEntity = repository.GetAll();
+Console.WriteLine($"Removing 3rd Entry");
+repository.Remove(entity3);
+repository.Save();
